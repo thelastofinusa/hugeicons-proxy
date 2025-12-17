@@ -15,7 +15,7 @@ type IconRegistry = {
  * Icons namespace for Hugeicons.
  *
  * Access any Hugeicons core icon as a typed React component by name.
- * Example. Icons.PlusSign Icons.Search Icons.FolderOpen
+ * Example. Icons.PlusSignIcon Icons.SearchIcon
  *
  * Source icons and documentation.
  * https://hugeicons.com/icons

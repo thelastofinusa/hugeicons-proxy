@@ -1,6 +1,6 @@
 {
   "name": "hugeicons-proxy",
-  "version": "1.0.7",
+  "version": "1.0.10",
   "description": "A lightweight React helper for Hugeicons. Import once and use any icon as a React component by name. No manual imports, no icon mapping, full TypeScript support and autocomplete. Built to stay simple, predictable and easy to extend.",
   "license": "MIT",
   "main": "./dist/hugeicons.js",
@@ -17,9 +17,19 @@
   "keywords": [
     "react",
     "@hugeicons/react",
-    "@hugeicons/core-free-icons"
+    "@hugeicons/core-free-icons",
+    "icons",
+    "react-icons",
+    "ui-components",
+    "design-system",
+    "vector-icons",
+    "react-component-library",
+    "web-icons",
+    "scalable-icons",
+    "customizable-icons",
+    "icon-library"
   ],
-  "homepage": "https://github.com/thelastofinusa/hugeicons-proxy#readme",
+  "homepage": "https://hugeicons.com",
   "bugs": {
     "url": "https://github.com/thelastofinusa/hugeicons-proxy/issues"
   },
@@ -32,7 +42,7 @@
     "@hugeicons/react": "^1.1.2"
   },
   "peerDependencies": {
-    "react": ">=18"
+    "react": ">=16.0.0"
   },
   "devDependencies": {
     "@types/react": "^19.2.7",
